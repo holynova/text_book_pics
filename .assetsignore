@@ -1,0 +1,7 @@
+.git
+.git/**
+.wrangler
+.wrangler/**
+.assetsignore
+.gitignore
+wrangler.toml
